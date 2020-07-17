@@ -1,4 +1,4 @@
-# Track My Diet - Food Image Analysis
+# Track My Diet - Food Image Classifier
 
 ## Overview
 What foods we eat is vital to our personal health, especially in regards to chronic health conditions. Unfortunately, current methods for diet tracking can be cumbersome and unreliable, often based on self-recall surveys. This project explores using computer vision for food classification to see if this can be applied to diet tracking.
